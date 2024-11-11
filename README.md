@@ -1,6 +1,6 @@
 # Algebra_TP3_024
 Integrantes: 
 Lucio Stefano Piccioni
-Nicoloas Agustin Leon
+Nicoloas Agustin Leon (Hice el fork)
 Joaquin Herrero Ledner
-Francisco Jonas (YO)<----
+Francisco Jonas (Dueño del repo)
